@@ -1,6 +1,6 @@
 <h1>STARWARS APP</h1>
 
-> **_⚠️ Please visit Documentation link_** : **[Documentation Project](https://imamabdulazis.github.io/StarWarsAppDocs/#/)**
+> **_⚠️ Please visit Repository link_** : **[Project](https://github.com/imamabdulazis/StarWarsApp)**
 
 ## **INTRODUCTION**
 
